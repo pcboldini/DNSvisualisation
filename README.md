@@ -10,7 +10,9 @@ This repository contains movies of Direct Numerical Simulations (DNS) showing tw
 
 This movie (Figure 9 in the manuscript) illustrates contours of density (ρ) in an *xy*-plane over one forcing period (T₀, the period of the fundamental wave). The pseudo-critical point at *y = y<sub>pc</sub>* lies within the green region, i.e., between 98% of max(*c<sub>p</sub>*) and max(*c<sub>p</sub>*).
 
-[▶️ View movie1.mp4](Movie1.mp4)
+![Preview](Movie1.gif)
+
+[▶️ View movie1.mp4](movies/Movie1.mp4)
 
 ### Movies #2, #3, and #4: Three-dimensional simulations — breakdown to turbulence
 
@@ -20,6 +22,14 @@ These movies (Figure 12 in the manuscript) show isosurfaces of the **Q-criterion
 - **Movie #3**: Case **Tw110-LA** — Transcritical regime with finite-amplitude oblique wave (*Q* = 0.020)
 - **Movie #4**: Case **Tw110-IA** — Transcritical regime with infinitesimal-amplitude oblique wave (*Q* = 0.020)
 
-[▶️ View movie2.mp4](Movie2.mp4)
-[▶️ View movie3.mp4](Movie3.mp4)
-[▶️ View movie4.mp4](Movie4.mp4)
+![Preview](Movie2.gif)
+
+[▶️ View movie2.mp4](movies/Movie2.mp4)
+
+![Preview](Movie3.gif)
+
+[▶️ View movie3.mp4](movies/Movie3.mp4)
+
+![Preview](Movie4.gif)
+
+[▶️ View movie4.mp4](movies/Movie4.mp4)
