@@ -1,4 +1,4 @@
-# DNS Visualisations
+# DNS visualisations
 
 <p align="center">
   <img src="image.jpg" alt="" width="450"/>
