@@ -6,7 +6,7 @@
 
 This repository contains movies of Direct Numerical Simulations (DNS) showing two-dimensional nonlinear forcing and three-dimensional breakdown to turbulence in a heated flat-plate boundary layer with a fluid at supercritical pressure. The movies are part of the publication:
 
-> [**Add full citation or DOI here once available**]
+> [https://arxiv.org/abs/2506.06703](https://arxiv.org/abs/2506.06703)
 
 ---
 
